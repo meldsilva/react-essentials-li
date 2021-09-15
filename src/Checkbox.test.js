@@ -1,5 +1,3 @@
-// import { fireEvent } from "@testing-library/dom";
-// import { render } from "react-dom"
 import React from "react";
 import { render, fireEvent } from "@testing-library/react";
 import {Checkbox} from "./Checkbox"
